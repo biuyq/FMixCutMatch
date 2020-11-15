@@ -1,3 +1,5 @@
+Code for reproducing "FMixCutMatch for Semi-supervised Deep Learning", published in Neural Networks.
+
 #### Manual install
 |Dependencies  |
 | ------------- |
